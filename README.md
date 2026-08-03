@@ -55,5 +55,5 @@ Si l'application ne s'ouvre pas ou reste bloquée sur l'écran d'accueil, appliq
 
 Si le problème persiste après ces étapes, merci d'envoyer un courriel à notre équipe support :
 
-* **Courriel Support :** `fgadedjro@gmail.com`
+* **Courriel Support :** `fgadedjro@gmail.com` `moulinotlandry97@gmail.com`
 * **Éléments à joindre idéalement :** Une capture d'écran du message d'erreur ou du blocage rencontré.
