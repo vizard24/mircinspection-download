@@ -11,7 +11,7 @@ Ce portail met à votre disposition les installateurs certifiés et les mises à
 Suivez ces 3 étapes simples pour installer ou mettre à jour l'application sur votre ordinateur :
 
 ### 1. Télécharger l'installateur
-* En haut à droite de cette page (section **Releases**), cliquez sur la **[Dernière version disponible](https://github.com/VOTRE-NOM-UTILISATEUR/NOM-DU-REPO/releases/latest)**.
+* En haut à droite de cette page (section **Releases**), cliquez sur la **[Dernière version disponible](https://github.com/vizard24/mircinspection-download/releases/tag/v1.7.0)**.
 * Sous la rubrique **Assets**, cliquez sur le fichier d'installation : `MircInspection_Setup.exe`.
 
 ### 2. Lancer l'installation
